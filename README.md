@@ -1,6 +1,6 @@
 # Devcamper API
 
-> Backend API for the Devcamper Application, which is a bootcampdirectory website
+> Nodejs and MongoDB Backend API for the Devcamper Application, which is a bootcamp directory website for developers to create and enroll in different courses
 
 ## Usage
 
